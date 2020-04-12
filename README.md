@@ -1,0 +1,2 @@
+# project-alasan
+buat latihan
